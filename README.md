@@ -1,4 +1,4 @@
-Hi, I’m Olga—an architect turned data analyst!
+Hi, I’m Olga - an architect turned data analyst!
 
 🌱 I’m currently learning **advanced Python, data visualization, and predictive analytics.**  
 💞️ I’m looking to collaborate on **data projects, dashboards, and open-source analytics tools.**  

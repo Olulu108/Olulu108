@@ -1,6 +1,6 @@
 Hi, I'm Olga 👋
 
-Architect turned Computational Designer and Data Analyst with a passion for the intersection of the built environment and data-driven innovation.
+Architect with a passion for the intersection of the built environment and data-driven innovation.
 
 🌱 Currently deepening skills in **advanced Python, data visualization, and predictive analytics**.
 
